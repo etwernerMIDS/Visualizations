@@ -2,7 +2,7 @@
 
 ## Erin Werner
 
-Data engineering is the aspect of data science that focuses on practical applications of data collection and analysis. Before a company can optimize the business more efficiently or build data products more intelligently, layers of foundational work need to be built first. Data engineering must source, transform, and analyze data from each system. As a result, data engineering helps make data more useful and accessible for consumers of data.
+Data visualization provides a clear idea of what the information means by giving it visual context through maps or graphs. This makes the data more natural for the human mind to comprehend and therefore makes it easier to identify trends, patterns, and outliers within large data sets
 
 The [projects](https://github.com/etwernerMIDS/Data_Engineering/tree/master/Projects) in this repository will cover the different aspects within the Data Engineering ETL pipeline, such as 
 
